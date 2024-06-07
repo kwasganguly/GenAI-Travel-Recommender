@@ -1,3 +1,6 @@
+## Use httpx-0.27.0
+## Use OpenAI-1.30.5
+
 import os
 import streamlit as st
 from llama_index.llms.openai import OpenAI as LlamaOpenAI
